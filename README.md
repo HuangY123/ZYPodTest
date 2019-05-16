@@ -22,7 +22,7 @@ pod 'ZYPodTest'
 
 ## Author
 
-HuangY123, n_snyuan@3songshu.com
+HuangY123, 1134934011@qq.com
 
 ## License
 
